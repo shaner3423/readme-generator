@@ -47,7 +47,7 @@ inquirer.prompt([
         type: "list",
         name: 'license',
         message: 'What type of license do you want to use?',
-        choices: ['MIT', 'GNU GPLv3', 'Apache', 'Other']
+        choices: ['MIT', 'GNU', 'Apache', 'Other']
     },
     {
         type: "input",
