@@ -1,7 +1,7 @@
 
   # Project Title
+  ![License](https://img.shields.io/badge/License-Other-brightgreen)
   ## asdf
-  ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
   ## Description
   ### asdf
@@ -16,13 +16,13 @@
   - [Questions](#questions)
 
   ## Installations
-  ### asdf
+  ### 
 
   ## Usage
   ### 
 
   ## License
-  ### MIT 
+  ### Other 
  
 
   ## Contributing
@@ -35,6 +35,6 @@
   ### For additional questions, please feel free to each out using the links below!
   ### GitHub UserName: asdf
   ### GitHub Link: asdf
-  ### E-mail: asdf
+  ### E-mail: sadf
 
   
