@@ -26,7 +26,9 @@
 
   ## Technologies Used
   -Node.js
+  
   -NPM
+  
   -Inquirer
 
 
