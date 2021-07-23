@@ -5,6 +5,13 @@
 
   ## Description
   ### A node.js based tool that users can use to create a quick read me for their project
+  
+  ## User Story
+```
+- AS A developer
+- I WANT a README generator
+- SO THAT can quickly create a professional README for a new project
+```
 
  
   ## Usage
