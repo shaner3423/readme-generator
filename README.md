@@ -31,7 +31,7 @@
   ## Screenshots and Video 
   Video Walkthrough: https://drive.google.com/file/d/1BIqXnmgFtdNA9YdtjqxPeDcEgnQgUzv6/view
   
-  ![]()
+  ![](./example.png)
   
   
 
