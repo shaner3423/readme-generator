@@ -1,38 +1,36 @@
 
-  # Project Title
-  ## ads
+  # README.md Generator
+  
+  ### Github:
 
   ## Description
-  ### asdf
+  ### A node.js based tool that users can use to create a quick read me for their project
 
-  ## Table of Contents 
-  - [Description](#description)
-  - [Installation](#installation) 
-  - [Usage](#usage) 
-  - [Contributing](#contributing) 
-  - [Test](#test) 
-  - [License](#license) 
-  - [Questions](#questions)
-
-  ## Installations
-  ### asdf
-
+ 
   ## Usage
-  ### asdf
+-This tool will allow user to create a README.md
+-Users will be asked to enter the title of their project
+-Users will be asked to enter the description of their prokect
+-Users need to provide the title of t
+-Users can describe the project
+-Users will need to provide license if there's any
+-Users will be asked if there's any dependencies
+-Users will be asked if there's a test to run
+-Users need to provide the usage of the project
+-Last but not least, list the contributors
 
-  ## License
-  ### MIT + renderLicenseSection
 
-  ## Contributing
-  ### asdf
 
-  ## Test
-  ### asdf
+  ## Screenshots
+  
 
-  ## Questions
-  ### For additional questions, please feel free to each out using the links below!
-  ### GitHub UserName: asdf
-  ### GitHub Link: [undefined]
-  ### E-mail: [asdf]
+  ## Technologies Used
+  -Node.js
+  -NPM
+  -Inquirer
+
+
+  ## Contributor
+  Shane Crisostomo &copy 2021 All Rights Reserved.
 
   
