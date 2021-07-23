@@ -1,7 +1,7 @@
 
   # README.md Generator
   
-  ### Github:
+  ### Github: https://github.com/shaner3423/readme-generator
 
   ## Description
   ### A node.js based tool that users can use to create a quick read me for their project
