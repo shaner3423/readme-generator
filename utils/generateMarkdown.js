@@ -4,6 +4,7 @@ function generateMarkdown(data) {
   # Readme Generator
 
   ![License](https://img.shields.io/badge/License-${data.license}-brightgreen)
+
   ${data.title}
 
 
@@ -55,8 +56,11 @@ function generateMarkdown(data) {
 
 
   For additional questions, please feel free to each out using the links below!
+
   GitHub UserName: ${data.githubUser}
+
   GitHub Link: ${data.githubLink}
+  
   E-mail: ${data.email}
 
   `;
