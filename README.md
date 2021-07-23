@@ -33,6 +33,6 @@
 
 
   ## Contributor
-  Shane Crisostomo &copy 2021 All Rights Reserved.
+  Shane Crisostomo &copy: 2021 All Rights Reserved.
 
   
